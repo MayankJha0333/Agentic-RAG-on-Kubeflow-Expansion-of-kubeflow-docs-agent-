@@ -77,7 +77,6 @@ Design and deploy a scalable, modular **Agentic RAG (Retrieval-Augmented Generat
   * Visualize latency and flow decisions across LangGraph nodes
   * Evaluate agent performance and prompt effectiveness over time
 
----
 
 ## 🔁 Feedback Loop & Golden Data Layer
 
@@ -97,7 +96,6 @@ Design and deploy a scalable, modular **Agentic RAG (Retrieval-Augmented Generat
 * Ratings and feedback trigger logging into MLflow.
 * High-rated, low-risk responses can be proposed as trusted Golden Data entries.
 
----
 
 ## 📥 Data Ingestion & Auto Re-Indexing
 
@@ -117,8 +115,6 @@ Design and deploy a scalable, modular **Agentic RAG (Retrieval-Augmented Generat
 │  └─────────────────────────────┘                                            │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
-
----
 
 ## ✅ Summary & Deployment Notes
 
